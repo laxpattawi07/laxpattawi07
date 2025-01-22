@@ -1,10 +1,10 @@
 ![chill mario](https://github.com/user-attachments/assets/8f1f8771-037f-426e-89e7-4f1c6d87328b)
 
-
 <h1 align="center">Hi 👋, I'm Laxmikant Pattawi</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyY2UzYWI1MjgzMzRmM2FkY2RhMGMzMjQzMjM3MzcwYTVkOWZmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxpattawi07&label=Profile%20views&color=0e75b6&style=flat" alt="laxpattawi07" /> </p>
 
