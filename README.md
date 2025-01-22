@@ -1,4 +1,3 @@
-![MasterHead]
 ![chill mario](https://github.com/user-attachments/assets/8f1f8771-037f-426e-89e7-4f1c6d87328b)
 
 
